@@ -67,3 +67,8 @@ package-lock.json
 
 # Planning (local scratchpad)
 plan/
+# Personal data - keep private
+config/profile.yml
+data/applications.md
+data/pipeline.md
+reports/
